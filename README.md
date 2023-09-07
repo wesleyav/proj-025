@@ -1,8 +1,8 @@
 ![](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-# Descrição
+## Descrição
 
-Este projeto é um exemplo de um sistema de biblioteca desenvolvido em Java com o framework Spring e os módulos Spring MVC, Spring Boot Dev Tools, Spring Data JPA e o banco em memória H2 Database. Ele demonstra um relacionamento 1:N (um para muitos) entre as classes Author (Autor) e Book (Livro), com a capacidade de criar, listar e atualizar autores e livros.
+Este projeto é um exemplo de uma API REST desenvolvida em Java com o framework Spring e os módulos Spring MVC, Spring Boot Dev Tools, Spring Data JPA e o banco em memória H2 Database. Ele demonstra um relacionamento 1:N (um para muitos) entre as classes Author (Autor) e Book (Livro), com a capacidade de criar, listar e atualizar autores e livros.
 
 ## Requisitos
 
@@ -46,7 +46,7 @@ Este projeto é um exemplo de um sistema de biblioteca desenvolvido em Java com 
 
 ## Collection do Postman para testes:
 
-[postman_collection.json](src/main/resources/docs/postman_collection.json)
+Download: [postman_collection.json](src/main/resources/docs/postman_collection.json)
 
 ## OpenAPI Definition
 
